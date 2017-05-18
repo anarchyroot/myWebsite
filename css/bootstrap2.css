@@ -1,3 +1,13 @@
+.serviceshead{
+    color: whitesmoke;
+    text-align: center;
+}
+.servicesstyle {
+    background-color:rgba(0, 0, 0, 0.3);
+    color: darkgray;
+}
+
+
 .grid-item {
     float: left;
     width: 80px;
@@ -106,6 +116,9 @@
 
 body{
     font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.navbar-header{
 }
 
 #page-content{
