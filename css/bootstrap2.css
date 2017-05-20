@@ -1,9 +1,32 @@
+.abouttext {
+    /*margin-left: 50px;*/
+    /*margin-right: 50px;*/
+    margin-top: 30px;
+    color: darkgray;
+}
+
+.aboutimage {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+ }
+
+.aboutcontainer {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.aboutheader {
+    font-size: 40px;
+    color: whitesmoke;
+}
+
 .serviceshead{
     color: whitesmoke;
     text-align: center;
 }
 .servicesstyle {
-    background-color:rgba(0, 0, 0, 0.3);
+    background-color:rgba(0, 0, 0, 0.7);
     color: darkgray;
 }
 
@@ -175,6 +198,7 @@ body{
     left: 0;
     overflow: hidden;
     z-index: -100;
+    background-image: url("/imgs/dustin-scarpitti-1013.jpg");
 }
 
 #video{
