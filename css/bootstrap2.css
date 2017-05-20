@@ -1,6 +1,6 @@
 .abouttext {
-    /*margin-left: 50px;*/
-    /*margin-right: 50px;*/
+    margin-left: 50px;
+    margin-right: 50px;
     margin-top: 30px;
     color: darkgray;
 }
@@ -12,8 +12,8 @@
  }
 
 .aboutcontainer {
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .aboutheader {
@@ -148,7 +148,7 @@ body{
     width: 100%;
     min-height: 100vh;
     z-index: 500;
-    position: relative;;
+    position: relative;
 }
 
 #home-splash{
@@ -199,6 +199,10 @@ body{
     overflow: hidden;
     z-index: -100;
     background-image: url("/imgs/dustin-scarpitti-1013.jpg");
+}
+
+#about{
+    background: url("/imgs/michael-hull-2283.jpg");
 }
 
 #video{
