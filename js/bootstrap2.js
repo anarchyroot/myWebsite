@@ -91,14 +91,14 @@ $(document).ready(function(){
     nextMsg();
 });
 
-require([
-    'PhotoSwipe/dist/photoswipe.css',
-    './photoswipe-ui-default.js'
-], function( PhotoSwipe, PhotoSwipeUI_Default ) {
-
-    //  	var gallery = new PhotoSwipe( someElement, PhotoSwipeUI_Default ...
-    //  	gallery.init()
-    //  	...
-
-});
-
+// require([
+//     'PhotoSwipe/dist/photoswipe.css',
+//     './photoswipe-ui-default.js'
+// ], function( PhotoSwipe, PhotoSwipeUI_Default ) {
+//
+//     //  	var gallery = new PhotoSwipe( someElement, PhotoSwipeUI_Default ...
+//     //  	gallery.init()
+//     //  	...
+//
+// });
+//
